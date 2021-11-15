@@ -8,4 +8,4 @@ def twoSum(nums, target):
                 arr[num]=i
         return []
 
-print(twoSum(nums = [2,7,11,15], target))
+print(twoSum(nums = [2,7,11,15], target=5))
